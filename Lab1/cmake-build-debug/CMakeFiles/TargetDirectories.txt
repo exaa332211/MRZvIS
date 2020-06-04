@@ -1,0 +1,3 @@
+/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/CMakeFiles/Tranporter.dir

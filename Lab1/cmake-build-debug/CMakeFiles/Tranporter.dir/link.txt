@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Tranporter.dir/main.cpp.o CMakeFiles/Tranporter.dir/classes/implementations/BinDigit.cpp.o  -o Tranporter 

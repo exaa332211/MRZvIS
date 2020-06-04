@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexander/studing/MRZVIS/Transporter/classes/headers/BinDigit.h
+string
+-
+vector
+-
+
+/home/alexander/studing/MRZVIS/Transporter/classes/implementations/BinDigit.cpp
+../headers/BinDigit.h
+/home/alexander/studing/MRZVIS/Transporter/classes/headers/BinDigit.h
+iostream
+-
+bitset
+-
+

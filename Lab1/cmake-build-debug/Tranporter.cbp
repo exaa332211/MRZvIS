@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tranporter"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tranporter">
+				<Option output="/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Tranporter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tranporter"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tranporter/fast">
+				<Option output="/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Tranporter" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tranporter/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/alexander/studing/MRZVIS/Transporter/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/alexander/studing/MRZVIS/Transporter/classes/headers/BinDigit.h">
+			<Option target="Tranporter"/>
+		</Unit>
+		<Unit filename="/home/alexander/studing/MRZVIS/Transporter/classes/implementations/BinDigit.cpp">
+			<Option target="Tranporter"/>
+		</Unit>
+		<Unit filename="/home/alexander/studing/MRZVIS/Transporter/main.cpp">
+			<Option target="Tranporter"/>
+		</Unit>
+		<Unit filename="/home/alexander/studing/MRZVIS/Transporter/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
