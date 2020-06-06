@@ -1,0 +1,24 @@
+﻿  matrix.cpp
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(30,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(130,9): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(130,9): warning C4244:         with
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(130,9): warning C4244:         [
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(130,9): warning C4244:             _Ty=double
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(130,9): warning C4244:         ]
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(195,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(263,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(281,20): warning C4018: <: несоответствие типов со знаком и без знака
+  MRZVIS2.cpp
+  timer.cpp
+D:\Мрзис\Lab2\MRZVIS2\matrix.cpp(282,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\Мрзис\Lab2\MRZVIS2\timer.cpp(9,12): warning C4244: инициализация: преобразование "_Rep" в "float", возможна потеря данных
+D:\Мрзис\Lab2\MRZVIS2\timer.cpp(9,12): warning C4244:         with
+D:\Мрзис\Lab2\MRZVIS2\timer.cpp(9,12): warning C4244:         [
+D:\Мрзис\Lab2\MRZVIS2\timer.cpp(9,12): warning C4244:             _Rep=__int64
+D:\Мрзис\Lab2\MRZVIS2\timer.cpp(9,12): warning C4244:         ]
+  MRZVIS2.vcxproj -> D:\Мрзис\Lab2\x64\Debug\MRZVIS2.exe
